@@ -1,3 +1,3 @@
 ﻿# POO-estructuras
-
-stiven:)
+**INTEGRANTES**  
+Nicoll Dayana Posso Tapiero - 202610034615
